@@ -17,29 +17,29 @@ Automated YouTube & Instagram channel for daily AI and tech news.
 git clone https://github.com/your-username/ai-daily-tech.git
 cd ai-daily-tech
 
-**Install Ollama**
+Install Ollama
 curl -fsSL https://ollama.com/install.sh | sh
 ollama pull llama3
 
-**Install Python packages**
+Install Python packages
 pip install -r requirements.txt
 
-**Set up YouTube API**
+Set up YouTube API
 Go to Google Cloud Console
 Create project → Enable YouTube Data API v3
 Download credentials.json → place in root
 
-**Create Config.json**
+Create Config.json
 cp config.json.example config.json
 Edit with your keys.
 
-**Add stock video**
+Add stock video
 Download a 9:16 video from Pexels → save as assets/stock.mp4
 
-**Run**
+Run
 python main.py
 
-**Automate Daily**
+Automate Daily
 Enable GitHub Actions and add CONFIG_JSON as a secret.
 
-**Made with ❤️ by me!**
+Made with ❤️ by me!
