@@ -1,0 +1,9 @@
+pytrends
+requests
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+moviepy
+pillow
+feedparser
+ollama
