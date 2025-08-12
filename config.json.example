@@ -14,6 +14,9 @@
   "video": {
     "duration": 90,
     "resolution": [1080, 1920]
-  },
-  "pexels_api_key": "your_pexels_api_key_here"
+},
+
+{
+  "pexels_api_key": "your_pexels_api_key_here",
+  "video_search_query": "artificial intelligence abstract tech loop"
 }
