@@ -17,7 +17,7 @@ Automated YouTube & Instagram channel for daily AI and tech news.
 git clone https://github.com/your-username/ai-daily-tech.git
 cd ai-daily-tech
 
-**Install Ollama**
+__Install Ollama__
 curl -fsSL https://ollama.com/install.sh | sh
 ollama pull llama3
 
