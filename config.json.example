@@ -1,0 +1,19 @@
+{
+  "youtube": {
+    "credentials_file": "credentials.json",
+    "token_file": "token.pickle"
+  },
+  "elevenlabs": {
+    "api_key": "your_elevenlabs_api_key_here",
+    "voice_id": "21m00Tcm4TlvDq8ikWAM"
+  },
+  "ollama": {
+    "model": "llama3",
+    "host": "http://localhost:11434"
+  },
+  "video": {
+    "duration": 90,
+    "resolution": [1080, 1920]
+  },
+  "pexels_api_key": "your_pexels_api_key_here"
+}
